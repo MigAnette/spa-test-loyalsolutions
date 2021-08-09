@@ -1,0 +1,14 @@
+{
+  "name": "Name",
+  "last_name": "Lastname",
+  "loading-text": "Loading please wait...",
+  "confirmEmail": "Confirm Email",
+  "submit": "Become Member",
+  "newMember": "Welcome {name}, you have been added as a member",
+  "signupToShop": "Go to Shops List",
+  "shops": "Shops",
+  "members": "Members",
+  "signup": "Signup",
+  "findUs": "Find us here",
+  "contact": "Contact us at"
+}

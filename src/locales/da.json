@@ -1,0 +1,14 @@
+{
+  "name": "Navn",
+  "last_name": "Efternavn",
+  "loading-text": "Loader, vent venligst...",
+  "confirmEmail": "Bekræft email",
+  "submit": "Tilmed",
+  "newMember": "Velkommen {name}, du er blevet tilføjet som medlem",
+  "signupToShop": "Gå til Butikker",
+  "shops": "Butikker",
+  "members": "Medlemmer",
+  "signup": "Bliv medlem",
+  "findUs": "Find os her",
+  "contact": "Kontakt os på"
+}
